@@ -1,3 +1,18 @@
+#Intoduction
+
+Hi, I'm Vinit and I have made this demo app for applying to Bynry. 
+The app is made with React and bootstrap. As the position I'm applying for is frontend, I've tried not to make a backened server for this app. The data is statically stored inside a folder at frontend.
+>Working of the app-
+I have used mapbox-gl for react to make maps for all the users adding markers to pinpoint their exact location of the address.
+The Login/Logout functionality has been omitted as it would need a backend server.
+I have tried to keep everything simple to showcase the api and its uses to plot maps.
+Hope you like it!
+
+ps. to install all the dependancies you might to do "npm install --force" for getting the corrected versions
+
+cheers
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
