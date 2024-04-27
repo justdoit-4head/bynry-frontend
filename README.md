@@ -1,4 +1,4 @@
-#Intoduction
+# Intoduction
 
 Hi, I'm Vinit and I have made this demo app for applying to Bynry. 
 The app is made with React and bootstrap. As the position I'm applying for is frontend, I've tried not to make a backened server for this app. The data is statically stored inside a folder at frontend.
